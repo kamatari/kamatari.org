@@ -6,4 +6,4 @@ tags : ["MMA","UFC"]
 draft: false
 ---
 
-![UFC Fight Night Japan 20170923](/images/ufc170923.jpg)
+![UFC Fight Night Japan 20170923](/img/ufc170923.jpg)
