@@ -1,4 +1,4 @@
-baseURL = "https://kamatari.org"
+baseURL = "https://kamatari.org/"
 languageCode = "ja"
 title = "kamatari.org"
 theme = "temple"
