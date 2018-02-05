@@ -2,3 +2,5 @@ baseURL = "https://kamatari.org/"
 languageCode = "ja"
 title = "kamatari.org"
 theme = "temple"
+
+googleAnalytics = "UA-41886618-1"
