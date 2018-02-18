@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-02-18T15:56:03+09:00
-draft: true
+draft: false
 ---
 # Masahiro Kamata
 Software Engineer in Tokyo
